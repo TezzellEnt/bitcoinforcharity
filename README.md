@@ -1,4 +1,4 @@
-bitcoinforcharity
+Bitcoin For Charity
 =================
 
-Crowd mining of bitcoins to donate to charity
+List of Charities that accept Bitcoin!
